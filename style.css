@@ -20,10 +20,10 @@ h1{
 }
 
 .btn{
-    padding: 15px 30px;
+    padding: 20px 50px 0px 50px;
     outline: none;
     border: none;
-    border-radius: 30px;
+    clip-path: polygon(16% 35%, 93% 36%, 75% 100%, 0% 100%);
     color: #fff;
     background: #FFA732;
     cursor: pointer;
